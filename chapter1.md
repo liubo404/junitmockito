@@ -1,3 +1,3 @@
-# First Chapter
+# Chapter 1. On Tests and Tools
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+This introductory chapter presents the main categories of test. It will enable us  to understand the of each of them, and also to see the place and purpose of unit tests.
